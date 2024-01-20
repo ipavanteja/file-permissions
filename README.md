@@ -1,4 +1,4 @@
-<h1 align="center">File Permissions - LINUX </h1>
+<h1 align="center">File Permissions - UNIX </h1>
 
 In Unix-like operating systems, file permissions are represented by a three-digit octal (base-8) number. Each digit corresponds to a specific set of permissions for the owner, group, and others. Here's the breakdown:
 
